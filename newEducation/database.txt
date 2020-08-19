@@ -2,4 +2,4 @@
 root//root1234//admin//00000//1//000//0
 gs10133//0915jhg10133//정호균//21025//0//210//0
 shuriel_v//shuriel_vV//김관수//21102//0//211//0
-testid//testpassword//testname//30712//0//307//0
+testid//0915jhg10133//testname//30101//0//301//0
